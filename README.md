@@ -2,7 +2,7 @@
 
 Cabrini University Library Chat Project 
 
-Link : [https://libraryh3lp.com/chat/hslreferences-queue@chat.libraryh3lp.com?skin=35016&amp;identity=Librarian](https://www.cabrini.edu/about/departments/library)
+Holy Spirit Library: [https://libraryh3lp.com/chat/hslreferences-queue@chat.libraryh3lp.com?skin=35016&amp;identity=Librarian](https://www.cabrini.edu/about/departments/library)
 
 Direct Link to webchat: https://libraryh3lp.com/chat/hslreferences-queue@chat.libraryh3lp.com?skin=35016&amp;identity=Librarian
 
