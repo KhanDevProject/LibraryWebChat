@@ -1,12 +1,21 @@
 # Library Web Chat Application 
+To run the program(s):
+* Download the repo
+* Open it in your IDE (VSCODE)
+* Run browser-name LibraryChat.html or from your IDE. For example, google-chrome LibraryChat.html
+* Enjoy!
 
+# Links
 Cabrini University Library Chat Project 
 
 Holy Spirit Library: https://www.cabrini.edu/about/departments/library
 
 Direct Link to webchat: https://libraryh3lp.com/chat/hslreferences-queue@chat.libraryh3lp.com?skin=35016&amp;identity=Librarian
 
+# About the application
 → Created based on the preference of the designer team. 
+
+→ Designed was used on the website for full functionality and responsive.
 
 → Allows library users to interact with librarians and access various services through real-time messaging. 
 
